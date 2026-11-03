@@ -1,3 +1,4 @@
+# KR2: Likhtina
 import os
 import socket
 
